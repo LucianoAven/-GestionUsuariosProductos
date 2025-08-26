@@ -26,6 +26,7 @@ Frontend en **React + Vite + PrimeReact**. Backend en **Node.js + Express + Sequ
 
 ### Backend
 
+- git clone https://github.com/LucianoAven/-GestionUsuariosProductos.git
 - cd API-REST-DB
 - npm install
 - npm run dev       
@@ -46,7 +47,6 @@ Importante: debes cambiar estos datos con los de tu propio servidor MySQL:
     password → tu contraseña de MySQL
     database → el nombre de la base de datos (por ejemplo "crud_db")
     host → generalmente "127.0.0.1" o "localhost"
-
 
 ### Frontend
 
